@@ -2,7 +2,7 @@ package my_adventure;
 
 import java.util.Scanner;
 
-public class My_adventure {
+public class My_math_adventure {
 
 	// In the past, I always found out that there are some math problems are so hard to solve.
 	// You say you did not enter such stuffs?
